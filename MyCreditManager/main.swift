@@ -117,7 +117,6 @@ final class Main {
     
     init() {
         self.callMenu()
-        //        print(self.keyRead(inputString: readLine()))
     }
     
     private func keyRead(inputString: String?) -> [String] {
